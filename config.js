@@ -41,7 +41,7 @@ module.exports = {
   //style:process.env.STYLE|| "2",  // put '1' & "2" here to check bot styles
 
 
-  HANDLERS:process.env.PREFIX || ".",
+  HANDLERS:process.env.PREFIX || "‽",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7-qr",
   caption:process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
